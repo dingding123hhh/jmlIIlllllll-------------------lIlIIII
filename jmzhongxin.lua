@@ -1,0 +1,1 @@
+getgenv().LS="禁漫中心" loadstring(game:HttpGet("https://raw.githubusercontent.com/dingding123hhh/nb/main/Protected_6526827728423545.txt"))()---载入中
